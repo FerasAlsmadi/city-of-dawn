@@ -55,5 +55,5 @@ export const PROMISE_TEXT = {
 export const FINAL_TEXT = {
   line1: "المجد لمن صنعوا الفجر",
   line2: "والزوال لكل ظلام",
-  footer: "سوريا… حرة إلى الأبد"
+  footer: "Feras Alsmadi - فراس الصمادي"
 };
